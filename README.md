@@ -1,2 +1,2 @@
-# AI-Policy-Navigator
-AI Policy Documents LLM ChatOpenApi application 
+# DocuDigest-AI
+Files used for chat AI agent using Flowiseai
